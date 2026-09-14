@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.server.json",
+  "compilerOptions": { "outDir": "dist/tests" },
+  "include": [
+    "apps/server/rooms.ts",
+    "apps/server/store.ts",
+    "apps/server/validation.ts",
+    "packages",
+    "tests"
+  ],
+  "exclude": ["apps/web"]
+}
