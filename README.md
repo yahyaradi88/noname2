@@ -131,3 +131,5 @@ Deploy a **persistent container**, such as a Render service, Railway service, Fl
 6. Allow graceful SIGTERM shutdown. Test reconnection and restore a backup before inviting real players.
 
 The app is provided as a runnable, deployment-configured source project. It has not been published to an external host, stress tested, or independently penetration tested.
+#   L i a r  
+ 
